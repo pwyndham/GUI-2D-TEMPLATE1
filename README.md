@@ -5,7 +5,7 @@ This coding project is a template for a future design I will be working on. I am
 With that being said here are some visuals of my code.
 
 -This Visual is my opening frame that allows the user to go to 2 separate windows. Number 1 being a preset menu and the other being a "Customizable Drink Menu". The customizable drink menu demonstrates the action of adding alcohol and mixers to the glass.
-![Bar App open frame](https://github.com/pwyndham/GUI-2D-TEMPLATE1/assets/136670450/b9eeed98-5cd4-46fd-bc28-5225e61d4032)
+![Bar App open frame](https://github.com/pwyndham/GUI-2D-TEMPLATE1/assets/136670450/04fb6c6b-5b74-4f66-b8f4-8c00984ae46f)
 
 Here is my Second frame. Here I selected a lemondrop which displays on the frame after selecting, as well as it being added to the "Shopping Cart". There are buttons that allow drink removal from the cart and finishing your order to display a total price.
 ![Bar second frame](https://github.com/pwyndham/GUI-2D-TEMPLATE1/assets/136670450/982c67b3-c162-4a5e-95f8-f0e9bea76045)
